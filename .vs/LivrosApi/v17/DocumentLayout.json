@@ -3,32 +3,64 @@
   "WorkspaceRootPath": "E:\\BNE\\BNE Academy\\Curso Web API\\LivrosApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1B3EA026-D938-4BF7-9D9E-99DA2DB739E9}|LivrosApi\\LivrosApi.csproj|e:\\bne\\bne academy\\curso web api\\livrosapi\\livrosapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{1B3EA026-D938-4BF7-9D9E-99DA2DB739E9}|LivrosApi\\LivrosApi.csproj|solutionrelative:livrosapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{1B3EA026-D938-4BF7-9D9E-99DA2DB739E9}|LivrosApi\\LivrosApi.csproj|e:\\bne\\bne academy\\curso web api\\livrosapi\\livrosapi\\dto\\book\\bookeditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B3EA026-D938-4BF7-9D9E-99DA2DB739E9}|LivrosApi\\LivrosApi.csproj|solutionrelative:livrosapi\\dto\\book\\bookeditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1B3EA026-D938-4BF7-9D9E-99DA2DB739E9}|LivrosApi\\LivrosApi.csproj|e:\\bne\\bne academy\\curso web api\\livrosapi\\livrosapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B3EA026-D938-4BF7-9D9E-99DA2DB739E9}|LivrosApi\\LivrosApi.csproj|solutionrelative:livrosapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1B3EA026-D938-4BF7-9D9E-99DA2DB739E9}|LivrosApi\\LivrosApi.csproj|e:\\bne\\bne academy\\curso web api\\livrosapi\\livrosapi\\services\\book\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B3EA026-D938-4BF7-9D9E-99DA2DB739E9}|LivrosApi\\LivrosApi.csproj|solutionrelative:livrosapi\\services\\book\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1B3EA026-D938-4BF7-9D9E-99DA2DB739E9}|LivrosApi\\LivrosApi.csproj|e:\\bne\\bne academy\\curso web api\\livrosapi\\livrosapi\\livrosapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{1B3EA026-D938-4BF7-9D9E-99DA2DB739E9}|LivrosApi\\LivrosApi.csproj|solutionrelative:livrosapi\\livrosapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{1B3EA026-D938-4BF7-9D9E-99DA2DB739E9}|LivrosApi\\LivrosApi.csproj|e:\\bne\\bne academy\\curso web api\\livrosapi\\livrosapi\\dto\\relationship\\authorrelationshipdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B3EA026-D938-4BF7-9D9E-99DA2DB739E9}|LivrosApi\\LivrosApi.csproj|solutionrelative:livrosapi\\dto\\relationship\\authorrelationshipdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1B3EA026-D938-4BF7-9D9E-99DA2DB739E9}|LivrosApi\\LivrosApi.csproj|e:\\bne\\bne academy\\curso web api\\livrosapi\\livrosapi\\models\\bookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B3EA026-D938-4BF7-9D9E-99DA2DB739E9}|LivrosApi\\LivrosApi.csproj|solutionrelative:livrosapi\\models\\bookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1B3EA026-D938-4BF7-9D9E-99DA2DB739E9}|LivrosApi\\LivrosApi.csproj|e:\\bne\\bne academy\\curso web api\\livrosapi\\livrosapi\\dto\\book\\bookcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B3EA026-D938-4BF7-9D9E-99DA2DB739E9}|LivrosApi\\LivrosApi.csproj|solutionrelative:livrosapi\\dto\\book\\bookcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1B3EA026-D938-4BF7-9D9E-99DA2DB739E9}|LivrosApi\\LivrosApi.csproj|e:\\bne\\bne academy\\curso web api\\livrosapi\\livrosapi\\models\\authormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1B3EA026-D938-4BF7-9D9E-99DA2DB739E9}|LivrosApi\\LivrosApi.csproj|solutionrelative:livrosapi\\models\\authormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1B3EA026-D938-4BF7-9D9E-99DA2DB739E9}|LivrosApi\\LivrosApi.csproj|e:\\bne\\bne academy\\curso web api\\livrosapi\\livrosapi\\livrosapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{1B3EA026-D938-4BF7-9D9E-99DA2DB739E9}|LivrosApi\\LivrosApi.csproj|solutionrelative:livrosapi\\livrosapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+      "AbsoluteMoniker": "D:0:0:{1B3EA026-D938-4BF7-9D9E-99DA2DB739E9}|LivrosApi\\LivrosApi.csproj|e:\\bne\\bne academy\\curso web api\\livrosapi\\livrosapi\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B3EA026-D938-4BF7-9D9E-99DA2DB739E9}|LivrosApi\\LivrosApi.csproj|solutionrelative:livrosapi\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B3EA026-D938-4BF7-9D9E-99DA2DB739E9}|LivrosApi\\LivrosApi.csproj|e:\\bne\\bne academy\\curso web api\\livrosapi\\livrosapi\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B3EA026-D938-4BF7-9D9E-99DA2DB739E9}|LivrosApi\\LivrosApi.csproj|solutionrelative:livrosapi\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B3EA026-D938-4BF7-9D9E-99DA2DB739E9}|LivrosApi\\LivrosApi.csproj|e:\\bne\\bne academy\\curso web api\\livrosapi\\livrosapi\\services\\book\\ibookinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B3EA026-D938-4BF7-9D9E-99DA2DB739E9}|LivrosApi\\LivrosApi.csproj|solutionrelative:livrosapi\\services\\book\\ibookinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B3EA026-D938-4BF7-9D9E-99DA2DB739E9}|LivrosApi\\LivrosApi.csproj|e:\\bne\\bne academy\\curso web api\\livrosapi\\livrosapi\\models\\bookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B3EA026-D938-4BF7-9D9E-99DA2DB739E9}|LivrosApi\\LivrosApi.csproj|solutionrelative:livrosapi\\models\\bookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B3EA026-D938-4BF7-9D9E-99DA2DB739E9}|LivrosApi\\LivrosApi.csproj|e:\\bne\\bne academy\\curso web api\\livrosapi\\livrosapi\\services\\author\\iauthorinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B3EA026-D938-4BF7-9D9E-99DA2DB739E9}|LivrosApi\\LivrosApi.csproj|solutionrelative:livrosapi\\services\\author\\iauthorinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B3EA026-D938-4BF7-9D9E-99DA2DB739E9}|LivrosApi\\LivrosApi.csproj|e:\\bne\\bne academy\\curso web api\\livrosapi\\livrosapi\\dto\\author\\authoreditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B3EA026-D938-4BF7-9D9E-99DA2DB739E9}|LivrosApi\\LivrosApi.csproj|solutionrelative:livrosapi\\dto\\author\\authoreditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B3EA026-D938-4BF7-9D9E-99DA2DB739E9}|LivrosApi\\LivrosApi.csproj|e:\\bne\\bne academy\\curso web api\\livrosapi\\livrosapi\\dto\\author\\authorcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B3EA026-D938-4BF7-9D9E-99DA2DB739E9}|LivrosApi\\LivrosApi.csproj|solutionrelative:livrosapi\\dto\\author\\authorcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1B3EA026-D938-4BF7-9D9E-99DA2DB739E9}|LivrosApi\\LivrosApi.csproj|e:\\bne\\bne academy\\curso web api\\livrosapi\\livrosapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1B3EA026-D938-4BF7-9D9E-99DA2DB739E9}|LivrosApi\\LivrosApi.csproj|solutionrelative:livrosapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B3EA026-D938-4BF7-9D9E-99DA2DB739E9}|LivrosApi\\LivrosApi.csproj|e:\\bne\\bne academy\\curso web api\\livrosapi\\livrosapi\\livrosapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1B3EA026-D938-4BF7-9D9E-99DA2DB739E9}|LivrosApi\\LivrosApi.csproj|solutionrelative:livrosapi\\livrosapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B3EA026-D938-4BF7-9D9E-99DA2DB739E9}|LivrosApi\\LivrosApi.csproj|e:\\bne\\bne academy\\curso web api\\livrosapi\\livrosapi\\models\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B3EA026-D938-4BF7-9D9E-99DA2DB739E9}|LivrosApi\\LivrosApi.csproj|solutionrelative:livrosapi\\models\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,32 +70,107 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "E:\\BNE\\BNE Academy\\Curso Web API\\LivrosApi\\LivrosApi\\appsettings.json",
-              "RelativeDocumentMoniker": "LivrosApi\\appsettings.json",
-              "ToolTip": "E:\\BNE\\BNE Academy\\Curso Web API\\LivrosApi\\LivrosApi\\appsettings.json",
-              "RelativeToolTip": "LivrosApi\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-09T02:04:31.689Z",
+              "DocumentIndex": 2,
+              "Title": "AuthorRelationshipDto.cs",
+              "DocumentMoniker": "E:\\BNE\\BNE Academy\\Curso Web API\\LivrosApi\\LivrosApi\\Dto\\Relationship\\AuthorRelationshipDto.cs",
+              "RelativeDocumentMoniker": "LivrosApi\\Dto\\Relationship\\AuthorRelationshipDto.cs",
+              "ToolTip": "E:\\BNE\\BNE Academy\\Curso Web API\\LivrosApi\\LivrosApi\\Dto\\Relationship\\AuthorRelationshipDto.cs",
+              "RelativeToolTip": "LivrosApi\\Dto\\Relationship\\AuthorRelationshipDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T21:04:23.661Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "BookModel.cs",
-              "DocumentMoniker": "E:\\BNE\\BNE Academy\\Curso Web API\\LivrosApi\\LivrosApi\\Models\\BookModel.cs",
-              "RelativeDocumentMoniker": "LivrosApi\\Models\\BookModel.cs",
-              "ToolTip": "E:\\BNE\\BNE Academy\\Curso Web API\\LivrosApi\\LivrosApi\\Models\\BookModel.cs",
-              "RelativeToolTip": "LivrosApi\\Models\\BookModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Title": "BookCreateDto.cs",
+              "DocumentMoniker": "E:\\BNE\\BNE Academy\\Curso Web API\\LivrosApi\\LivrosApi\\Dto\\Book\\BookCreateDto.cs",
+              "RelativeDocumentMoniker": "LivrosApi\\Dto\\Book\\BookCreateDto.cs",
+              "ToolTip": "E:\\BNE\\BNE Academy\\Curso Web API\\LivrosApi\\LivrosApi\\Dto\\Book\\BookCreateDto.cs",
+              "RelativeToolTip": "LivrosApi\\Dto\\Book\\BookCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T01:43:02.675Z",
+              "WhenOpened": "2025-06-09T18:37:09.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookEditDto.cs",
+              "DocumentMoniker": "E:\\BNE\\BNE Academy\\Curso Web API\\LivrosApi\\LivrosApi\\Dto\\Book\\BookEditDto.cs",
+              "RelativeDocumentMoniker": "LivrosApi\\Dto\\Book\\BookEditDto.cs",
+              "ToolTip": "E:\\BNE\\BNE Academy\\Curso Web API\\LivrosApi\\LivrosApi\\Dto\\Book\\BookEditDto.cs",
+              "RelativeToolTip": "LivrosApi\\Dto\\Book\\BookEditDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T18:36:04.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IBookInterface.cs",
+              "DocumentMoniker": "E:\\BNE\\BNE Academy\\Curso Web API\\LivrosApi\\LivrosApi\\Services\\Book\\IBookInterface.cs",
+              "RelativeDocumentMoniker": "LivrosApi\\Services\\Book\\IBookInterface.cs",
+              "ToolTip": "E:\\BNE\\BNE Academy\\Curso Web API\\LivrosApi\\LivrosApi\\Services\\Book\\IBookInterface.cs",
+              "RelativeToolTip": "LivrosApi\\Services\\Book\\IBookInterface.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T15:53:13.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "E:\\BNE\\BNE Academy\\Curso Web API\\LivrosApi\\LivrosApi\\Services\\Book\\BookService.cs",
+              "RelativeDocumentMoniker": "LivrosApi\\Services\\Book\\BookService.cs",
+              "ToolTip": "E:\\BNE\\BNE Academy\\Curso Web API\\LivrosApi\\LivrosApi\\Services\\Book\\BookService.cs",
+              "RelativeToolTip": "LivrosApi\\Services\\Book\\BookService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAIA5wBMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T15:52:54.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthorCreateDto.cs",
+              "DocumentMoniker": "E:\\BNE\\BNE Academy\\Curso Web API\\LivrosApi\\LivrosApi\\Dto\\Author\\AuthorCreateDto.cs",
+              "RelativeDocumentMoniker": "LivrosApi\\Dto\\Author\\AuthorCreateDto.cs",
+              "ToolTip": "E:\\BNE\\BNE Academy\\Curso Web API\\LivrosApi\\LivrosApi\\Dto\\Author\\AuthorCreateDto.cs",
+              "RelativeToolTip": "LivrosApi\\Dto\\Author\\AuthorCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T13:33:37.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthorEditDto.cs",
+              "DocumentMoniker": "E:\\BNE\\BNE Academy\\Curso Web API\\LivrosApi\\LivrosApi\\Dto\\Author\\AuthorEditDto.cs",
+              "RelativeDocumentMoniker": "LivrosApi\\Dto\\Author\\AuthorEditDto.cs",
+              "ToolTip": "E:\\BNE\\BNE Academy\\Curso Web API\\LivrosApi\\LivrosApi\\Dto\\Author\\AuthorEditDto.cs",
+              "RelativeToolTip": "LivrosApi\\Dto\\Author\\AuthorEditDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T14:17:57.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthorController.cs",
+              "DocumentMoniker": "E:\\BNE\\BNE Academy\\Curso Web API\\LivrosApi\\LivrosApi\\Controllers\\AuthorController.cs",
+              "RelativeDocumentMoniker": "LivrosApi\\Controllers\\AuthorController.cs",
+              "ToolTip": "E:\\BNE\\BNE Academy\\Curso Web API\\LivrosApi\\LivrosApi\\Controllers\\AuthorController.cs",
+              "RelativeToolTip": "LivrosApi\\Controllers\\AuthorController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwCoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T12:03:21.022Z",
               "EditorCaption": ""
             },
             {
@@ -74,62 +181,84 @@
               "RelativeDocumentMoniker": "LivrosApi\\Models\\AuthorModel.cs",
               "ToolTip": "E:\\BNE\\BNE Academy\\Curso Web API\\LivrosApi\\LivrosApi\\Models\\AuthorModel.cs",
               "RelativeToolTip": "LivrosApi\\Models\\AuthorModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T01:41:19.947Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LivrosApi",
-              "DocumentMoniker": "E:\\BNE\\BNE Academy\\Curso Web API\\LivrosApi\\LivrosApi\\LivrosApi.csproj",
-              "RelativeDocumentMoniker": "LivrosApi\\LivrosApi.csproj",
-              "ToolTip": "E:\\BNE\\BNE Academy\\Curso Web API\\LivrosApi\\LivrosApi\\LivrosApi.csproj",
-              "RelativeToolTip": "LivrosApi\\LivrosApi.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-09T01:35:20.181Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "E:\\BNE\\BNE Academy\\Curso Web API\\LivrosApi\\LivrosApi\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "LivrosApi\\Data\\AppDbContext.cs",
-              "ToolTip": "E:\\BNE\\BNE Academy\\Curso Web API\\LivrosApi\\LivrosApi\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "LivrosApi\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T01:36:01.341Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "LivrosApi.http",
-              "DocumentMoniker": "E:\\BNE\\BNE Academy\\Curso Web API\\LivrosApi\\LivrosApi\\LivrosApi.http",
-              "RelativeDocumentMoniker": "LivrosApi\\LivrosApi.http",
-              "ToolTip": "E:\\BNE\\BNE Academy\\Curso Web API\\LivrosApi\\LivrosApi\\LivrosApi.http",
-              "RelativeToolTip": "LivrosApi\\LivrosApi.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-06-09T01:34:23.119Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T13:33:56.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BookModel.cs",
+              "DocumentMoniker": "E:\\BNE\\BNE Academy\\Curso Web API\\LivrosApi\\LivrosApi\\Models\\BookModel.cs",
+              "RelativeDocumentMoniker": "LivrosApi\\Models\\BookModel.cs",
+              "ToolTip": "E:\\BNE\\BNE Academy\\Curso Web API\\LivrosApi\\LivrosApi\\Models\\BookModel.cs",
+              "RelativeToolTip": "LivrosApi\\Models\\BookModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T19:05:46.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IAuthorInterface.cs",
+              "DocumentMoniker": "E:\\BNE\\BNE Academy\\Curso Web API\\LivrosApi\\LivrosApi\\Services\\Author\\IAuthorInterface.cs",
+              "RelativeDocumentMoniker": "LivrosApi\\Services\\Author\\IAuthorInterface.cs",
+              "ToolTip": "E:\\BNE\\BNE Academy\\Curso Web API\\LivrosApi\\LivrosApi\\Services\\Author\\IAuthorInterface.cs",
+              "RelativeToolTip": "LivrosApi\\Services\\Author\\IAuthorInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T11:55:03.459Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "E:\\BNE\\BNE Academy\\Curso Web API\\LivrosApi\\LivrosApi\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "LivrosApi\\Controllers\\BookController.cs",
+              "ToolTip": "E:\\BNE\\BNE Academy\\Curso Web API\\LivrosApi\\LivrosApi\\Controllers\\BookController.cs",
+              "RelativeToolTip": "LivrosApi\\Controllers\\BookController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T15:51:53.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\BNE\\BNE Academy\\Curso Web API\\LivrosApi\\LivrosApi\\Program.cs",
               "RelativeDocumentMoniker": "LivrosApi\\Program.cs",
               "ToolTip": "E:\\BNE\\BNE Academy\\Curso Web API\\LivrosApi\\LivrosApi\\Program.cs",
               "RelativeToolTip": "LivrosApi\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T01:34:03.157Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-09T11:56:53.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ResponseModel.cs",
+              "DocumentMoniker": "E:\\BNE\\BNE Academy\\Curso Web API\\LivrosApi\\LivrosApi\\Models\\ResponseModel.cs",
+              "RelativeDocumentMoniker": "LivrosApi\\Models\\ResponseModel.cs",
+              "ToolTip": "E:\\BNE\\BNE Academy\\Curso Web API\\LivrosApi\\LivrosApi\\Models\\ResponseModel.cs",
+              "RelativeToolTip": "LivrosApi\\Models\\ResponseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T12:00:07.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LivrosApi.csproj",
+              "DocumentMoniker": "E:\\BNE\\BNE Academy\\Curso Web API\\LivrosApi\\LivrosApi\\LivrosApi.csproj",
+              "RelativeDocumentMoniker": "LivrosApi\\LivrosApi.csproj",
+              "ToolTip": "E:\\BNE\\BNE Academy\\Curso Web API\\LivrosApi\\LivrosApi\\LivrosApi.csproj",
+              "RelativeToolTip": "LivrosApi\\LivrosApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-09T11:54:06.087Z"
             }
           ]
         }
